@@ -1,0 +1,155 @@
+/* .error{background-color: brown;
+font-size: 1rem;
+height:3rem;
+border-radius: 5px;
+}
+
+.titles{background-color: aquamarine;
+font-size: 5rem;} */
+
+ /*style for PopUp.html  
+
+
+ /* button{background-color: green; */
+    /* button{background-color: green;
+width:5rem;
+height: 5rem;
+margin: 1.3rem auto;
+padding:5px;
+display: block;
+    }
+
+.popup-wrapper{
+    background-color: rgba(46, 45, 45, 0.5);
+    position: fixed;
+    width:100%;
+    height: 100%;
+    top: 0;
+    left:0;
+    display: none;
+}
+
+.popup{
+    text-align: center;
+    width: 100%;
+    max-width: 300px;
+    margin:10% auto;
+    padding: 20px;
+    background-color: #fff;
+    position: relative;
+}
+
+.close:hover{font-size: 20px;
+cursor: pointer;}
+
+a{text-decoration: none;
+    color:black;
+    font-style: italic;
+}
+
+.close{text-align: right;
+margin-top: -15px;
+position: relative;
+font-size: 18px;} */
+/*  */
+/* form{ 
+    margin: 40px auto;
+    background-color: rgb(151, 145, 145);
+    padding: 10px;
+    max-width: 300px;
+}
+
+input{
+    display: block;
+    margin: 20px auto;
+    padding: 4px;
+}
+
+input.submit{
+    border-radius: 30px;
+    border: none;
+width:80px;
+}
+
+.success{
+    border:2px solid yellow;
+}
+.error{border: 2px solid red;} 
+
+.mint{
+ font-size: 50px;
+/* } */ 
+/* *{
+    margin: 0;
+} */
+/* code for popup */
+/* .main{width:100%;
+background-color: grey;
+text-align: center;
+margin: 10% auto;
+position: fixed;
+max-width:300px;
+} */
+/* // popup code// */
+/* button{
+    text-align: center;
+    display: block;
+    margin-left: 45%;
+    margin-top: 5%;
+    width:7rem;
+    height: 4rem;
+    background-color: blueviolet;
+    border: none;
+    font-size: 1.2rem;
+    ;
+}
+.middle{
+    background-color: rgb(223, 215, 215);
+    text-align: center;
+    margin: 10.2% auto;
+    max-width: 300px;
+    padding: 2rem;
+    display: none;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+    color:white;
+}
+
+.close{text-align: right;}
+.main{
+    background-color: rgba(0, 0, 0, 0.5);
+    width:100%;
+    height:100%;
+    position: fixed;
+    top:0;
+    left:0;
+    display: none;
+} */
+
+
+body{background-color: white;}
+
+ form{
+    max-width: 300px;
+    margin:40px auto;
+    padding: 10px;
+    background-color: rgb(240, 209, 172);
+
+ }
+
+ input{
+    display: block;
+    padding:10px;
+    margin: 10px auto;
+ }
+
+
+ .success{
+    border: 2px solid green;
+}
+.error{
+    border: 2px solid red;
+}
